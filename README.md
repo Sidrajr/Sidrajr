@@ -1,5 +1,5 @@
 ![ Animação Gits Snake Revenge ](https://github.com/VagnerBellacosa/VagnerBellacosa/blob/main/github-contribution-grid-snake.svg)
-##  💜 Olá, meu nome é <strong>Sidnei!</strong><img align="right" src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" alt="animated" />
+## :alien: Olá, meu nome é <strong>Sidnei!</strong><img align="right" src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" alt="animated" />
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Sidrajr)](https://github.com/Sidrajr)
