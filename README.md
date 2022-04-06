@@ -1,5 +1,6 @@
 ![ Animação Gits Snake Revenge ](https://github.com/VagnerBellacosa/VagnerBellacosa/blob/main/github-contribution-grid-snake.svg)
-##  💜 Olá, meu nome é <strong>Sidnei!</strong>
+##  💜 Olá, meu nome é <strong>Sidnei!</strong><img align="right" src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" alt="animated" />
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VagnerBellacosa)](https://github.com/VagnerBellacosa)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidnei-roberto-b18072149/)](https://www.linkedin.com/in/sidnei-roberto-b18072149/)
@@ -18,23 +19,5 @@
 
 
 ##  ⭐ Informações sobre minha conta GitHub
-![ GitHub Stats ](https://github-readme-stats.vercel.app/api?username=Sidrajr&show_icons=true)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="right">
-  <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" alt="animated" />
+![ GitHub Stats ](https://github-readme-stats.vercel.app/api?username=Sidrajr&theme=dark&show_icons=true )
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidrajr&layout=compact&langs_count=7&theme=dark"/>
